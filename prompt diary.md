@@ -1,4 +1,4 @@
-## Mainly used models
+# Mainly used models
 
 - ChatGPT
 - GitHub Copilot
