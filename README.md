@@ -1,2 +1,2 @@
 # Projekt-STRPRO
-Hier kommen alle benötigten Daten zur Abgabe des Projekts in STRPRO hinein. 
+In diesem Repository kommen alle benötigten Dateien hinein, die für die Abgabe des Projekts in STRPRO benötigt werden. 
