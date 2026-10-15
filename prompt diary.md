@@ -1,10 +1,9 @@
-## In this file the used prompts and AI models will be recorded and reflected. 
+## Mainly used models
 
-Mainly used models: 
-ChatGPT
-GitHub Copilot
-Claude
-Gemini 
+- ChatGPT
+- GitHub Copilot
+- Claude
+- Gemini 
 
 ## EXAMPLE
 
